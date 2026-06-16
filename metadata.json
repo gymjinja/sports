@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Health",
+  "description": "Lumina Health is a precise personal health tracking dashboard featuring activity logs, detailed sleep monitoring, profiles, and data storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
